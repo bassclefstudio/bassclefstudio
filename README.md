@@ -1,5 +1,3 @@
-![Dev-Banner](https://user-images.githubusercontent.com/51424093/117215958-06dd4f00-adcd-11eb-811b-16caf3cf5613.png)
-
 # Hi there! I'm bassclefstudio, a student and ameteur .NET developer!
 
 ## Currently working on:
